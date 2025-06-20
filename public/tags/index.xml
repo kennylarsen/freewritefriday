@@ -5,7 +5,7 @@
     <link>http://localhost:42307/tags/</link>
     <description>Recent content in Tags on Free Write Friday</description>
     <generator>Hugo</generator>
-    <language>en-gb</language>
+    <language>en-US</language>
     <atom:link href="http://localhost:42307/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
