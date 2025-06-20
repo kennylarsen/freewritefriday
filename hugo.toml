@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://www.freewritefriday.co.uk'
+languageCode = 'en-gb'
+title = 'Free Write Friday'
+
+theme = ['github.com/theNewDynamic/gohugo-theme-ananke/v2']
