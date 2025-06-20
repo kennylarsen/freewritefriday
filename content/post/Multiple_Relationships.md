@@ -1,6 +1,6 @@
 ---
-description: "Mutliple "
-featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
+description: "Thinking about how we handle multiple relationships within biblical counselling."
+featured_image: "/images/hats.png"
 tags: []
 title: "Multiple Relationships and Power in Biblical Counselling"
 author: Kenny Larsen

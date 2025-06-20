@@ -7,4 +7,4 @@ theme_version: '2.8.2'
 cascade:
   featured_image: 'images/sheffield_skyline.jpg'
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Each Friday I give some time to thinking about things that interest me, generally related to Christianity, culture, theology or biblical counselling. These aren't supposed to be completely constructed arguments or thoughts, but early explorations of ideas. 
