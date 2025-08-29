@@ -1,6 +1,6 @@
 ---
 description: "Three Stories We Tell Ourselves about “Who I Am” — and a Fourth We Often Miss"
-featured_image: "/images/union.png"
+featured_image: "/images/Identity_Image.png"
 tags: []
 title: "Who am I?"
 author: Kenny Larsen
